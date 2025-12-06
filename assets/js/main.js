@@ -49,10 +49,10 @@ const swiperPrices = new Swiper('.prices__swiper', {
         clickable: true,
     }, 
 
-    /* autoplay: {
+    autoplay: {
         delay: 3000, 
         disableOnInteraction: false,
-    }, */
+    },
 })
 
 /*=============== SHOW SCROLL UP ===============*/ 
